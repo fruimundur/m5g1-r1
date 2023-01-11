@@ -13,5 +13,5 @@ but hopefully this explanation shows that I might be able to figure it out if I 
 
 I hope that made sense lol
 
-The repository for my React/Frontend code is here: https://github.com/fruimundur/m5g1-r2
+The repository for my React/Frontend code is here: https://github.com/fruimundur/m5g1-r2/tree/master
 (Please note that I haven't added any comments to it, because I have explained everything in this Readme file)
